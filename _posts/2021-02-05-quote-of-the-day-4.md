@@ -1,5 +1,5 @@
 ---
-title: "Quote of the Day #3"
+title: "Quote of the Day #4"
 date: 2021-02-05 03:30:00+0900
 categories:
   - Quote
