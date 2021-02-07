@@ -4,7 +4,6 @@ date: 2020-12-26
 categories:
   - MLOps
 tags:
-  - Ainize
   - Flask
 author_profile: False 
 ---
@@ -13,4 +12,5 @@ author_profile: False
 
 모델 배포에는 여러가지 방법이 있으며, 그 중에 한 가지 방법을 소개해보려고 한다. 여기서는 Flask -> Docker -> Ainize 프로세스를 통해 모델 배포를 진행할 것이다. 우선 파이썬의 Flask모듈을 활용해 서버에 올릴 수 있는 형태로 코드 정리를 진행할 것이다. 그 후 Docker를 활용해 Dockerfile 생성 및 Docker 이미지를 만들 것이고, 마지막으로 Ainize를 활용해 REST API를 구축할 것이다. 
 
-모델 배포를 하기 위해선 서버에 모델이 올라갈 수 있는 형태로 코드를 정리해줘야 한다. 
+모델 배포를 하기 위해선 서버에 모델이 올라갈 수 있는 형태로 코드를 정리해줘야 한다. Flask 공식 홈페이지에 있는 예시를 
+

@@ -1,11 +1,10 @@
 ---
-title: "머신러닝 모델 배포해보기 part1"
+title: "머신러닝 모델 배포해보기 part3"
 date: 2020-12-26
 categories:
   - MLOps
 tags:
   - Ainize
-  - Flask
 author_profile: False 
 ---
 
