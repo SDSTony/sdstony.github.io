@@ -8,8 +8,7 @@ author_profile: False
 
 # 문제
 
-![](../assets/images/2021-02-28-git-branch-conflict-01.PNG)
-
+![](https://github.com/SDSTony/sdstony.github.io/blob/master/assets/images/2021-02-28-git-branch-conflict-01.PNG?raw=true)
 
 
 # 해결
