@@ -1,6 +1,6 @@
 ---
 title: "기본에 충실하지 않아서 실패한 사례들"
-date: 2021-03-13 15:30:00+0900
+date: 2021-03-11 15:30:00+0900
 categories:
   - Tech
 author_profile: False
