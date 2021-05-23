@@ -1,6 +1,6 @@
 ---
 title: "Kick Start 2021 Round B 참여후기"
-date: 2021-04-17 05:43:00+0900
+date: 2021-05-23 16:14:00+0900
 categories:
   - Tech
 author_profile: False
